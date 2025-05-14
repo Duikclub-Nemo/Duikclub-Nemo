@@ -1,0 +1,1 @@
+import{c as a,o as e,a as t,u as o,g as c,F as n}from"./app-BQ9clirJ.js";import{_ as r}from"./PageHeading-CK_LBIXa.js";const u={__name:"Contact",setup(s){return(_,m)=>(e(),a(n,null,[t(o(c),{title:"Contact"}),t(r,{title:"Contact"})],64))}};export{u as default};
