@@ -1,1 +1,0 @@
-import{c as a,o as t,a as e,u as s,g as r,F as n}from"./app-BQ9clirJ.js";import{_ as o}from"./PageHeading-CK_LBIXa.js";const l={__name:"Index",setup(c){return(_,m)=>(t(),a(n,null,[e(s(r),{title:"Nieuws"}),e(o,{title:"Nieuws"})],64))}};export{l as default};

@@ -1,0 +1,1 @@
+import{c as a,o as t,a as e,u as r,g as n,F as o}from"./app-BhXBTA25.js";import{_ as s}from"./PageHeading-DrHZrFsr.js";const u={__name:"Show",setup(c){return(_,m)=>(t(),a(o,null,[e(r(n),{title:"Agenda"}),e(s,{title:"Agenda"})],64))}};export{u as default};

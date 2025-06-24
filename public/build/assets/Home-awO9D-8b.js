@@ -1,0 +1,1 @@
+import{c as a,o,a as e,u as t,g as m,F as r}from"./app-BhXBTA25.js";import{_ as c}from"./PageHeading-DrHZrFsr.js";const i={__name:"Home",setup(s){return(l,n)=>(o(),a(r,null,[e(t(m),{title:"Welkom bij Duikclub Nemo"}),e(c,{title:"Welkom bij Duikclub Nemo"})],64))}};export{i as default};
