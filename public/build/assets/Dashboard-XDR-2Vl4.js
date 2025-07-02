@@ -1,0 +1,1 @@
+import{c as e,o as r,a,u as s,g as t,F as o}from"./app-F8B5DUc8.js";import{_ as n}from"./PageHeading-BdhsYaIN.js";import{_}from"./Card-D111JjpC.js";const d={__name:"Dashboard",setup(c){return(m,f)=>(r(),e(o,null,[a(s(t),{title:"Leden Dashboard"}),a(n,{title:"Leden Dashboard"}),a(_)],64))}};export{d as default};

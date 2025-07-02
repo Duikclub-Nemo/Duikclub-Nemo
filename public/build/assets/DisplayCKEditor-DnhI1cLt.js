@@ -1,0 +1,1 @@
+import{c as n,o}from"./app-F8B5DUc8.js";const r=["innerHTML"],a={__name:"DisplayCKEditor",props:{text:String},setup(t){const e=t;return(s,c)=>(o(),n("div",{class:"prose ck-content",innerHTML:e.text},null,8,r))}};export{a as _};

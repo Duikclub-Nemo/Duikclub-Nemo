@@ -1,0 +1,1 @@
+import{c as a,o as t,a as e,u as n,g as r,F as s}from"./app-F8B5DUc8.js";import{_ as o}from"./PageHeading-BdhsYaIN.js";const u={__name:"Index",setup(c){return(_,m)=>(t(),a(s,null,[e(n(r),{title:"Agenda"}),e(o,{title:"Agenda"})],64))}};export{u as default};

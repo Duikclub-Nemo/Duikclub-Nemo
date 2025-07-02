@@ -1,0 +1,1 @@
+import{c as a,o as r,a as e,u as t,g as s,F as o}from"./app-F8B5DUc8.js";import{_ as c}from"./PageHeading-BdhsYaIN.js";const i={__name:"Trail",setup(l){return(n,_)=>(r(),a(o,null,[e(t(s),{title:"Proefles"}),e(c,{title:"Proefles"})],64))}};export{i as default};

@@ -1,1 +1,0 @@
-import{c as a,o as r,a as e,b as s,u as o,g as t,F as n}from"./app-BhXBTA25.js";import{_}from"./Card--QJ_U0tg.js";import{_ as c}from"./PageHeading-DrHZrFsr.js";const m={class:"flex"},g={__name:"Terms",setup(l){return(i,f)=>(r(),a(n,null,[e(o(t),{title:"Algemene Voorwaarden"}),e(c,{title:"Algemene Voorwaarden"}),s("div",m,[e(_)])],64))}};export{g as default};

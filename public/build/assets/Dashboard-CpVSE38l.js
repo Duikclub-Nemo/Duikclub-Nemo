@@ -1,0 +1,1 @@
+import{c as a,o as r,a as e,u as s,g as t,F as o}from"./app-F8B5DUc8.js";import{_}from"./PageHeading-BdhsYaIN.js";import{_ as c}from"./Card-D111JjpC.js";const d={__name:"Dashboard",setup(m){return(n,f)=>(r(),a(o,null,[e(s(t),{title:"Beheerders Dashboard"}),e(_,{title:"Beheerders Dashboard"}),e(c)],64))}};export{d as default};
