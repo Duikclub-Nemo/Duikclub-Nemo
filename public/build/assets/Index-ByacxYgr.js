@@ -1,0 +1,1 @@
+import{c as a,o as t,a as e,u as s,g as r,F as n}from"./app-F8B5DUc8.js";import{_ as o}from"./PageHeading-BdhsYaIN.js";const l={__name:"Index",setup(c){return(_,m)=>(t(),a(n,null,[e(s(r),{title:"Nieuws"}),e(o,{title:"Nieuws"})],64))}};export{l as default};

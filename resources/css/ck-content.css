@@ -1,0 +1,56 @@
+/* CKContent */
+
+.ck-content * {
+    max-width: 100% !important;
+}
+
+.ck-content h1 {
+    @apply font-bold text-2xl;
+}
+
+.ck-content h2 {
+    @apply font-bold text-xl;
+}
+
+.ck-content h3 {
+    @apply font-bold text-lg;
+}
+
+.ck-content .text-tiny {
+    @apply text-xs;
+}
+
+.ck-content .text-small {
+    @apply text-sm;
+}
+
+.ck-content .text-big {
+    @apply text-lg;
+}
+
+.ck-content .text-huge {
+    @apply text-xl;
+}
+
+.ck-content ul {
+    @apply list-disc pl-6;
+}
+
+.ck-content ol {
+    @apply list-decimal pl-6;
+}
+
+.ck-content blockquote {
+    @apply border-l-4 pl-4 italic text-gray-600;
+}
+
+.ck-editor__editable .ck-horizontal-line {
+    display: flow-root;
+}
+
+.ck-content hr {
+    margin: 15px 0;
+    height: 1px;
+    background: hsl(0, 0%, 87%);
+    border: 0;
+}
