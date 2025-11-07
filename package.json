@@ -16,6 +16,7 @@
         "concurrently": "^9.2.0",
         "laravel-echo": "^2.2.0",
         "laravel-vite-plugin": "^2.0.0",
+        "patch-package": "^8.0.1",
         "pusher-js": "^8.4.0",
         "tailwind-scrollbar": "^4.0.2",
         "tailwindcss": "^4.1.11",
