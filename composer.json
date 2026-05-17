@@ -15,7 +15,7 @@
         "inertiajs/inertia-laravel": "^2.0.24",
         "jenssegers/agent": "^2.6.4",
         "kreait/laravel-firebase": "^7.2.1",
-        "laravel/framework": "^13.8.0",
+        "laravel/framework": "^13.9.0",
         "laravel/sanctum": "^4.3.2",
         "laravel/tinker": "^3.0.2",
         "plesk/ext-laravel-integration": "^7.0",
@@ -33,10 +33,10 @@
         "laravel/breeze": "^2.4.1",
         "laravel/pail": "^1.2.6",
         "laravel/pint": "^1.29.1",
-        "laravel/sail": "^1.58.0",
+        "laravel/sail": "^1.59.0",
         "mockery/mockery": "^1.6.12",
         "nunomaduro/collision": "^8.9.4",
-        "phpunit/phpunit": "^13.1.8"
+        "phpunit/phpunit": "^13.1.10"
     },
     "autoload": {
         "psr-4": {
