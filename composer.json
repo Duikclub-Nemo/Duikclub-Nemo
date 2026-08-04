@@ -11,12 +11,12 @@
     "require": {
         "php": "^8.3",
         "ext-pdo": "*",
-        "cviebrock/eloquent-sluggable": "^13.0",
+        "cviebrock/eloquent-sluggable": "^13.0.1",
         "inertiajs/inertia-laravel": "^2.0.24",
         "jenssegers/agent": "^2.6.4",
         "kreait/laravel-firebase": "^7.2.1",
-        "laravel/framework": "^13.17.0",
-        "laravel/sanctum": "^4.3.2",
+        "laravel/framework": "^13.24.0",
+        "laravel/sanctum": "^4.3.3",
         "laravel/tinker": "^3.0.2",
         "plesk/ext-laravel-integration": "^7.0",
         "propaganistas/laravel-phone": "^6.0.3",
@@ -27,16 +27,16 @@
         "tightenco/ziggy": "^2.6.3"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "^4.3.0",
+        "barryvdh/laravel-debugbar": "^4.4.1",
         "fakerphp/faker": "^1.24.1",
-        "laravel/boost": "^2.4.10",
+        "laravel/boost": "^2.4.13",
         "laravel/breeze": "^2.4.2",
         "laravel/pail": "^1.2.7",
-        "laravel/pint": "^1.29.3",
-        "laravel/sail": "^1.63.0",
+        "laravel/pint": "^1.30.3",
+        "laravel/sail": "^1.64.0",
         "mockery/mockery": "^1.6.12",
-        "nunomaduro/collision": "^8.9.4",
-        "phpunit/phpunit": "^13.2.1"
+        "nunomaduro/collision": "^8.9.5",
+        "phpunit/phpunit": "^13.2.6"
     },
     "autoload": {
         "psr-4": {
