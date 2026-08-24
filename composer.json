@@ -12,31 +12,31 @@
         "php": "^8.3",
         "ext-pdo": "*",
         "cviebrock/eloquent-sluggable": "^13.0.1",
-        "inertiajs/inertia-laravel": "^2.0.24",
+        "inertiajs/inertia-laravel": "^2.0.25",
         "jenssegers/agent": "^2.6.4",
         "kreait/laravel-firebase": "^7.2.1",
-        "laravel/framework": "^13.24.0",
+        "laravel/framework": "^13.26.1",
         "laravel/sanctum": "^4.3.3",
         "laravel/tinker": "^3.0.2",
         "plesk/ext-laravel-integration": "^7.0",
         "propaganistas/laravel-phone": "^6.0.3",
-        "pusher/pusher-php-server": "^7.2.8",
-        "spatie/image": "^3.9.5",
+        "pusher/pusher-php-server": "^7.3.0",
+        "spatie/image": "^3.9.6",
         "spatie/laravel-permission": "^7.4.2",
         "stevebauman/purify": "^6.3.2",
-        "tightenco/ziggy": "^2.6.3"
+        "tightenco/ziggy": "^2.6.4"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "^4.4.1",
+        "barryvdh/laravel-debugbar": "^4.4.2",
         "fakerphp/faker": "^1.24.1",
-        "laravel/boost": "^2.4.13",
+        "laravel/boost": "^2.5.5",
         "laravel/breeze": "^2.4.2",
         "laravel/pail": "^1.2.7",
-        "laravel/pint": "^1.30.3",
-        "laravel/sail": "^1.64.0",
-        "mockery/mockery": "^1.6.12",
+        "laravel/pint": "^1.30.5",
+        "laravel/sail": "^1.67.0",
+        "mockery/mockery": "^1.6.15",
         "nunomaduro/collision": "^8.9.5",
-        "phpunit/phpunit": "^13.2.6"
+        "phpunit/phpunit": "^13.3.1"
     },
     "autoload": {
         "psr-4": {
