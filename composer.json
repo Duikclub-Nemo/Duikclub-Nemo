@@ -12,7 +12,7 @@
         "php": "^8.3",
         "ext-pdo": "*",
         "cviebrock/eloquent-sluggable": "^13.0.1",
-        "inertiajs/inertia-laravel": "^2.0.25",
+        "inertiajs/inertia-laravel": "^2.0.26",
         "jenssegers/agent": "^2.6.4",
         "kreait/laravel-firebase": "^7.2.1",
         "laravel/framework": "^13.30.1",
