@@ -12,10 +12,10 @@
         "php": "^8.3",
         "ext-pdo": "*",
         "cviebrock/eloquent-sluggable": "^13.0.1",
-        "inertiajs/inertia-laravel": "^2.0.26",
+        "inertiajs/inertia-laravel": "^2.0.27",
         "jenssegers/agent": "^2.6.4",
         "kreait/laravel-firebase": "^7.2.1",
-        "laravel/framework": "^13.31.0",
+        "laravel/framework": "^13.33.0",
         "laravel/sanctum": "^4.3.3",
         "laravel/tinker": "^3.0.2",
         "plesk/ext-laravel-integration": "^7.0",
@@ -29,14 +29,14 @@
     "require-dev": {
         "barryvdh/laravel-debugbar": "^4.4.3",
         "fakerphp/faker": "^1.24.1",
-        "laravel/boost": "^2.8.0",
+        "laravel/boost": "^2.10.0",
         "laravel/breeze": "^2.4.2",
         "laravel/pail": "^1.2.7",
-        "laravel/pint": "^1.31.1",
-        "laravel/sail": "^1.67.0",
+        "laravel/pint": "^1.32.1",
+        "laravel/sail": "^1.68.0",
         "mockery/mockery": "^1.6.15",
         "nunomaduro/collision": "^8.9.5",
-        "phpunit/phpunit": "^13.3.2"
+        "phpunit/phpunit": "^13.3.4"
     },
     "autoload": {
         "psr-4": {
